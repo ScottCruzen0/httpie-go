@@ -1,0 +1,75 @@
+schema = 3
+
+[mod]
+  [mod."code.cloudfoundry.org/bytefmt"]
+    version = "v0.0.0-20200131002437-cf55d5288a48"
+    hash = "sha256-jMKLKyZzr4rBAmJKV10MfZopktuvNmIgMiPlBjsiYWg="
+  [mod."github.com/VividCortex/ewma"]
+    version = "v1.1.1"
+    hash = "sha256-PJOjkFjkXj3DYud3kwMyWxBdU+nMNA3msRIy/IpvYpM="
+  [mod."github.com/acarl005/stripansi"]
+    version = "v0.0.0-20180116102854-5a71ef0e047d"
+    hash = "sha256-Q2ejMYDBsPf7ihVntBygIhy2WYN1LixDOrXHBnWMXQs="
+  [mod."github.com/fsnotify/fsnotify"]
+    version = "v1.4.7"
+    hash = "sha256-j/Ts92oXa3k1MFU7Yd8/AqafRTsFn7V2pDKCyDJLah8="
+  [mod."github.com/golang/protobuf"]
+    version = "v1.2.0"
+    hash = "sha256-JCRU7j4MXiM35i1N7fwbyivPEpAQ7a4Y3mY3BX5+b+w="
+  [mod."github.com/hpcloud/tail"]
+    version = "v1.0.0"
+    hash = "sha256-7ByBr/RcOwIsGPCiCUpfNwUSvU18QAY+HMnCJr8uU1w="
+  [mod."github.com/logrusorgru/aurora"]
+    version = "v0.0.0-20200102142835-e9ef32dff381"
+    hash = "sha256-GEKATltPpxJjbLXs5mH+/Jyy49uJgTZ4rARt1ZLyiqY="
+  [mod."github.com/mattn/go-isatty"]
+    version = "v0.0.12"
+    hash = "sha256-noBpx3K4sa7tJcPpSUh+h7wJ8CRfrObaraKC2dE6VWU="
+  [mod."github.com/mtibben/androiddnsfix"]
+    version = "v0.0.0-20200907095054-ff0280446354"
+    hash = "sha256-Il4rJMDs/huN2SeL3qgetZ/a3VPpXNbG86DNkY6Wi90="
+  [mod."github.com/onsi/ginkgo"]
+    version = "v1.12.0"
+    hash = "sha256-f7kH35J92Wz5n9DQqE5XCU5I/ounlybyYqw8SIF75jQ="
+  [mod."github.com/onsi/gomega"]
+    version = "v1.9.0"
+    hash = "sha256-hvgmVtI6XwdXw3v+6fENW0qEKFbI4vyTHMt8u6zJyVA="
+  [mod."github.com/pborman/getopt"]
+    version = "v0.0.0-20190409184431-ee0cd42419d3"
+    hash = "sha256-7ZjTYHUlpLi9vHQqKp+FqPeCDPfvCgYYZBH8+nkxGvE="
+  [mod."github.com/pkg/errors"]
+    version = "v0.9.1"
+    hash = "sha256-mNfQtcrQmu3sNg/7IwiieKWOgFQOVVe2yXgKBpe/wZw="
+  [mod."github.com/vbauerster/mpb/v5"]
+    version = "v5.0.2"
+    hash = "sha256-bUUgEp46WmqWsey8bkiVpCGooeFGA3LBBkOTPEumutw="
+  [mod."golang.org/x/crypto"]
+    version = "v0.0.0-20200302210943-78000ba7a073"
+    hash = "sha256-FHG2vrAZG/0WZMcC0kkk971tQNcFIh7NEQ2fbkCr3OU="
+  [mod."golang.org/x/net"]
+    version = "v0.0.0-20190404232315-eb5bcb51f2a3"
+    hash = "sha256-kwP+BDfPsZEeeceyg4H5LgdTDT8O8YWbkpCkpyuPJJo="
+  [mod."golang.org/x/sync"]
+    version = "v0.0.0-20180314180146-1d60e4601c6f"
+    hash = "sha256-RmeyJRAh4IqkXr6La1hU2G1GtKEr9VNywH1S8a2i0hA="
+  [mod."golang.org/x/sys"]
+    version = "v0.0.0-20200302150141-5c8b2ff67527"
+    hash = "sha256-IBR/QN9owwlvs1wJMWMeZRWq3KYpFPeSsaDwk5GSROU="
+  [mod."golang.org/x/text"]
+    version = "v0.3.0"
+    hash = "sha256-0FFbaxF1ZuAQF3sCcA85e8MO6prFeHint36inija4NY="
+  [mod."golang.org/x/xerrors"]
+    version = "v0.0.0-20190717185122-a985d3407aa7"
+    hash = "sha256-kj2qs47n+a4gtKXHJN3U9gcSQ3BozjzYu7EphXjJnwM="
+  [mod."gopkg.in/check.v1"]
+    version = "v0.0.0-20161208181325-20d25e280405"
+    hash = "sha256-1w5mgYaZUC52uzDnpXXVqle/9AVkH4WePSrQFOVANUw="
+  [mod."gopkg.in/fsnotify.v1"]
+    version = "v1.4.7"
+    hash = "sha256-j/Ts92oXa3k1MFU7Yd8/AqafRTsFn7V2pDKCyDJLah8="
+  [mod."gopkg.in/tomb.v1"]
+    version = "v1.0.0-20141024135613-dd632973f1e7"
+    hash = "sha256-W/4wBAvuaBFHhowB67SZZfXCRDp5tzbYG4vo81TAFdM="
+  [mod."gopkg.in/yaml.v2"]
+    version = "v2.2.4"
+    hash = "sha256-4mnIZoZTmJhCe8pX+ChsXTSxN1rYPWpZbhNFfsqRfIU="
